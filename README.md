@@ -56,8 +56,8 @@ Check my pinned repositories to see:
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: linkedin.com/in/your-profile  
-- Telegram: @your_username  
+- Email: dyushchenko0@gmail.com  
+- LinkedIn: [linkedin.com/in/danile-yushchenko-1b20043a1/ ](https://www.linkedin.com/in/danile-yushchenko-1b20043a1/) 
+- Telegram: @danillALdev
 
-Open to **junior frontend roles, internships, and team opportunities**.
+Open to **frontend roles, internships, and team opportunities**.
