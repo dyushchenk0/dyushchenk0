@@ -57,7 +57,7 @@ Check my pinned repositories to see:
 
 ## 📫 Contact
 - Email: dyushchenko0@gmail.com  
-- LinkedIn: [linkedin.com/in/danile-yushchenko-1b20043a1/ ](https://www.linkedin.com/in/danile-yushchenko-1b20043a1/) 
+- LinkedIn: [linkedin.com/in/dyushchenko0](https://www.linkedin.com/in/danile-yushchenko-1b20043a1/) 
 - Telegram: @danillALdev
 
 Open to **frontend roles, internships, and team opportunities**.
