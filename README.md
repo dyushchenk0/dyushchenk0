@@ -26,7 +26,10 @@ I work on my own projects from idea to implementation and actively collaborate w
 ---
 
 ## 🧰 Languages and Tools
-HTML | CSS/SCSS/Tailwind | JavaScript | React | Next.js | Node.js | MongoDB | MySQL | Git/GitHub 
+HTML | CSS/SCSS/Tailwind | JavaScript 
+React | Next.js | Node.js
+MongoDB | MySQL 
+Git/GitHub 
 <p align="left">
   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
