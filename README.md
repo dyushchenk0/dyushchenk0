@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniil
+# 👋 Hi, I'm Danile
 
 **Frontend Developer**
 
