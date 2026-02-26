@@ -11,7 +11,7 @@ September 2025 – February 2026
 
 ## 📌 Project
 **E-commerce Project (Sportswear Outlet)**
-Full-Stack Developer | Team project (8 members)
+Frontend Developer | Team project (8 members)
 - Independently implemented a dynamic product filtering system across categories (React + Next.js), improving UX and reducing product search time.
 - Developed authentication and registration with client-side validation and error handling.
 - Optimized component rendering and implemented image lazy-loading, reducing page load time by ~30%. 
@@ -25,7 +25,7 @@ Full-Stack Developer | Team project (8 members)
 
 ## 📌 Project
 **Project: “Modivo UA” (SPA)**
-Full-Stack Developer | Team project (8 members)
+Frontend Developer | Team project (8 members)
  - Contributed to the development of an SPA application in a team of 5 developers.
  - Independently implemented most UI components and core business logic (product catalog, product pages, shopping cart).
  - Developed authentication and registration with form validation.
