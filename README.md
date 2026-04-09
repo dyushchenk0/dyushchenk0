@@ -2,15 +2,15 @@
 
 **Frontend Developer**
 
-Frontend Developer with 1 year of commercial experience in building e-commerce applications using React and Next.js. I specialize in developing scalable SPA applications, performance optimization, and third-party API integrations. Focused on clean architecture, maintainable code, and strong UX principles.
+Frontend Developer with 3+ years of commercial experience in building e-commerce & SaaS applications using React and Next.js. I specialize in developing scalable SPA applications, performance optimization, and third-party API integrations. Focused on clean architecture, maintainable code, and strong UX principles.
 
 Work Experience - 1 Year
 September 2025 – February 2026
 
 ---
 
-## 📌 Project
-**E-commerce Project (Sportswear Outlet)**
+## 📌 E-commerce Project
+** Company: Sportswear Outlet**
 Frontend Developer | Team project (8 members)
 - Independently implemented a dynamic product filtering system across categories (React + Next.js), improving UX and reducing product search time.
 - Developed authentication and registration with client-side validation and error handling.
@@ -18,27 +18,36 @@ Frontend Developer | Team project (8 members)
 - Integrated a third-party payment API with transaction status handling and error processing to ensure stable payment operations.
 - Implemented SSR in Next.js to improve SEO and first render performance.
 - Built global state management using React Context (cart, authentication).
- - Implemented proper loading and error states when working with REST APIs.
- - Worked in a Scrum team using Jira for task planning and coordination.
+- Implemented proper loading and error states when working with REST APIs.
+- Worked in a Scrum team using Jira for task planning and coordination.
+
+Technologies: React, TypeScript, Redux Toolkit, Tailwind, SASS/SCSS, REST API, Microfrontends, Vite, Git, Jira
+
 
 ---
 
-## 📌 Project
-**Project: “Modivo UA” (SPA)**
+## 📌 SaaS Project 
+**Company: “UniLink” (SPA)**
 Frontend Developer | Team project (8 members)
- - Contributed to the development of an SPA application in a team of 5 developers.
- - Independently implemented most UI components and core business logic (product catalog, product pages, shopping cart).
- - Developed authentication and registration with form validation.
- - Solved performance issues by optimizing components and applying memoization (React.memo / useMemo).
- - Participated in design discussions and adapted layouts from Figma.
- - Debugged backend-related issues, fixing incorrect form submission and request handling.
- - Implemented proper loading/error states during REST API integration.
 
----
+Responsibilities:
+- Developed a high-traffic AI agent platform for automating content generation and user interaction (~10,000+ users).
+  Implemented scalable interfaces and business logic for various agent types (SEO, Email, Ads, AI Copywriting) with integration of LLM services.
+  Developed interfaces for configuring agents and interacting with them in real time.
+- Developed analytics and user behavior tracking systems.
+  Created dashboards to track user activity and scenario effectiveness (~15+ key metrics).
+  Improved the application’s architecture and scalability.
+- Participated in the implementation of a micro-frontend architecture, dividing the application into independent modules (agents, analytics).
+  Reduced new feature development time by approximately ~20% through modularity.
+ - Optimized application performance.
+  Improved the LCP score by ~25% (Lighthouse) through lazy loading and component loading optimization.
+  Increased overall interface performance by ~11% through rendering and state management optimization.
+  Reduced initial page load time by approximately ~18%.
+- Worked in a cross-functional team (9 people: Frontend, Backend, QA, UX/UI, PM).
+  Worked using the Scrum methodology (2-week sprints).
+  Participated in feature planning, requirements gathering, and implementation.
 
-## 🤝 Team Composition
-Cross-functional team of 8 specialists:
-1 Team Lead, 2 Frontend Developers, 2 Backend Developers,  2 QA Engineers, and 1 UI/UX Designer working collaboratively to deliver scalable and user-centered web solutions.
+Technologies: React, Next.js, TypeScript, Redux Toolkit, Zustand, Tailwind, SASS/SCSS, REST API, Microfrontends, Vite, Git, Jira
 
 ---
 
@@ -72,7 +81,7 @@ Check my pinned repositories to see:
 ---
 
 ## 📫 Contact
-- Email: dyushchenko0@gmail.com  
+- Email: dyushchenkodev@gmail.com  
 - LinkedIn: [linkedin.com/in/dyushchenko0](https://www.linkedin.com/in/danile-yushchenko-1b20043a1/) 
 - Telegram: @danillALdev
 
